@@ -1,0 +1,1 @@
+# Task10_KNN_Handwritten_Digits_AVV
